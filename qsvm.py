@@ -1,4 +1,4 @@
-# Quantum Support Vector Machine
+# Quantum Support Vector Model
 
 from qiskit.circuit.library import ZZFeatureMap
 from qiskit_machine_learning.algorithms import QSVC
