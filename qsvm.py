@@ -13,6 +13,7 @@ iris = datasets.load_iris()
 print(iris.data)
 print(iris.target)
 print(iris.target_names)
+print(iris.data)
 dimension = len(iris.data[0])
 
 adhoc_dimension = len(iris.data[0])
