@@ -7,7 +7,7 @@ from qiskit_algorithms.state_fidelities import ComputeUncompute
 from qiskit.primitives import Sampler
 
 
-# IRIS EYE Data Set
+# IRIS Data Set
 from sklearn import datasets
 iris = datasets.load_iris()
 print(iris.data)
