@@ -1,9 +1,9 @@
 # Quantum K-nearest neighbor
-
 import math
 from qiskit import QuantumCircuit, transpile
 from qiskit_aer import Aer
 
+# Data alignment 
 trainingData = [[0.9798, 0.2, 1],[0.3, 0.954, 0]]
 queryData = [0.85, 0.5268]
 
