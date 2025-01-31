@@ -1,1 +1,1 @@
-codes on Quantum KNN and Quantum SVM for future projects. 
+codes on Quantum KNN and Quantum SVM for ongoing projects. 
