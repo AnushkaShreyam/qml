@@ -6,8 +6,7 @@ from qiskit_machine_learning.kernels import FidelityQuantumKernel
 from qiskit_algorithms.state_fidelities import ComputeUncompute
 from qiskit.primitives import Sampler
 
-
-# IRIS Data Set
+# IRIS Data
 from sklearn import datasets
 iris = datasets.load_iris()
 print(iris.data)
