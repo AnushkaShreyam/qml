@@ -1,6 +1,7 @@
 # Quantum Support Vector Model (QSVM)
 
 from qiskit.circuit.library import ZZFeatureMap
+from qiskit.primitives import Sampler
 from qiskit_machine_learning.algorithms import QSVC
 from qiskit_machine_learning.kernels import FidelityQuantumKernel
 from qiskit_algorithms.state_fidelities import ComputeUncompute
